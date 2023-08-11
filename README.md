@@ -16,5 +16,5 @@
 [Fibonacci](fibonacci.java)
 
 ## Exercise  5 Excel Calcularor
-### Program that calculates the number of columuns in excel using the name A = '1' Z = '26' CA = '72'S
-[ExcelCalculator](CalculadoraColumnasExcel.java)
+### Program that calculates the number of columuns in excel using the name A = '1' Z = '26' CA = '72'
+[ExcelCalculator](CalculadorColumnasExcel.java)
