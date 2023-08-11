@@ -6,7 +6,7 @@ public class fibonacci {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int limite;
-        int actual=1,anterior=0,suma=1;
+        long actual=1,anterior=0,suma=1;
         System.out.println("Hasta donde quieres:");
         limite = teclado.nextInt();
         teclado.nextLine();//Consumo el salto de linea
